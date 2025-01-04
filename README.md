@@ -15,7 +15,7 @@ Add the following to your `Cargo.toml`:
 cookie = "0.18"
 ```
 
-See the [documentation](http://docs.rs/cookie) for detailed usage information.
+See the [documentation](https://docs.rs/cookie) for detailed usage information.
 
 # Minimum Supported Rust Version (MSRV)
 
