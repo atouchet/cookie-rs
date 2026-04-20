@@ -6,7 +6,7 @@
 
 A Rust library for parsing HTTP cookies and managing cookie jars.
 
-# Usage
+## Usage
 
 Add the following to your `Cargo.toml`:
 
@@ -17,7 +17,7 @@ cookie = "0.18"
 
 See the [documentation](https://docs.rs/cookie) for detailed usage information.
 
-# Minimum Supported Rust Version (MSRV)
+## Minimum Supported Rust Version (MSRV)
 
 | Version Range                    | MSRV         |
 |----------------------------------|--------------|
@@ -26,7 +26,7 @@ See the [documentation](https://docs.rs/cookie) for detailed usage information.
 | `0.16` `<=` `cookie` `<=` `0.17` | `rustc 1.53` |
 | `cookie` `<=` `0.15`             | `rustc 1.41` |
 
-# License
+## License
 
 This project is licensed under your option of either of the following:
 
